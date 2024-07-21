@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Enki WhiteHat
+- 🔭 I’m currently working on ENKI WhiteHat
 
 <!--
 **citron0137/citron0137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
