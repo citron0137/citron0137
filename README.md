@@ -13,7 +13,11 @@
 - **StudyWork ([파트타임스터디](https://ptstudy.oopy.io/))**  
   - **Position**: CTO & Server Developer   
   - **Period**: 2022. 01 ~ 2024. 06
-  
+
+- **ETC**
+  - [2024. 06] 정보처리기사 취득 
+  - [2019. 03 ~ Present] 세종대학교 정보보호학과 
+  - [2018. 06 ~ 2019. 03] Best Of the Best 7th 보안제품개발 - BTT Project (토렌트 불법 영상물 탐지 솔루션)
 ---
 
 ### 🛠 Tech Stack
