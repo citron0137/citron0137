@@ -18,8 +18,11 @@
 
 ### 🛠 Tech Stack
 - **Backend**: ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%23FF6F00?style=flat&logo=spring) ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E?style=flat&logo=nestjs)
+- **Databases**: ![MySQL](https://img.shields.io/badge/MySQL-%2300A9E0?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2300477D?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2300A56C?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23D62D20?style=flat&logo=redis&logoColor=white)
 - **Programming**: ![Java](https://img.shields.io/badge/Java-%23F7B731?style=flat&logo=java) ![Kotlin](https://img.shields.io/badge/Kotlin-%2300B6AB?style=flat&logo=kotlin) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat&logo=typescript) ![Python](https://img.shields.io/badge/Python-%233776CC?style=flat&logo=python) ![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=flat&logo=gnu-bash) ![C](https://img.shields.io/badge/C-%2300599C?style=flat&logo=c)
-- **Infrastructure & Cloud**: ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker) ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat&logo=amazon-aws) ![OpenStack](https://img.shields.io/badge/OpenStack-%23E03A3E?style=flat&logo=openstack) ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux) ![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=flat&logo=nginx)
+- **Infrastructure & Cloud**: ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker) ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat&logo=amazon-aws) ![OpenStack](https://img.shields.io/badge/OpenStack-%23E03A3E?style=flat&logo=openstack) ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux) ![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=flat&logo=nginx) ![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=flat&logo=grafana&logoColor=white)
+- **Architecture**: ![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal%20Architecture-%23FF6F00?style=flat&logo=java&logoColor=white)
+- **Testing**: ![JUnit](https://img.shields.io/badge/JUnit-%2300A9E0?style=flat&logo=junit&logoColor=white)
 
 ---
 
