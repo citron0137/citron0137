@@ -6,7 +6,7 @@
 ---
 
 ### 💼 Experience
-- **Enki Whitehat**  
+- **Enki Whitehat ([OFFen-CAMP](https://www.enki.co.kr/product/offencamp))**  
   - **Position**: 서버 인프라 및 백엔드 개발 담당
   - **Period**: 2024. 07 ~ Present
   
@@ -24,10 +24,11 @@
 ---
 
 ### 📬 Contact
-- Kakao: [라도춘(RaDo)](http://qr.kakao.com/talk/5u8t5zGI6BLZU2uoPvETqD4nFwk-)
+- Contact: [![RaDo 카카오톡](https://img.shields.io/badge/라도춘(RaDo)-%23F7B731?logo=kakao&logoColor=black&style=flat)](http://qr.kakao.com/talk/5u8t5zGI6BLZU2uoPvETqD4nFwk-)
+
 - Email: citron0137@gmail.com
   
-- [Send me your contact if you'd like to be friends and collaborate!](mailto:citron0137@gmail.com?subject=%5B%EC%97%B0%EB%9D%BD%EC%B2%98%5D%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%21&body=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%21%20%0A%EB%AA%85%ED%95%A8%EC%9D%84%20%EB%B0%9B%EC%95%84%20%EC%97%B0%EB%9D%BD%EC%B2%98%20%EB%B3%B4%EB%82%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4.%20%0A%0A%EC%9D%B4%EB%A6%84%3A%20%7B%EC%84%B1%ED%95%A8%7D%0A%EC%97%B0%EB%9D%BD%EC%B2%98%20%3A%20%7B%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%98%90%EB%8A%94%20%EC%9D%B4%EB%A9%94%EC%9D%BC%7D%20%0A%EC%A7%81%EC%97%85%3A%20%7B%EC%A7%81%EC%97%85%20%EB%98%90%EB%8A%94%20%ED%95%98%EC%8B%9C%EB%8A%94%20%EC%9D%BC%2C%20%EA%B4%80%EC%8B%AC%EC%9E%88%EB%8A%94%20%EC%9D%BC%7D%0A%0A%ED%96%89%EB%B3%B5%ED%95%9C%20%ED%95%98%EB%A3%A8%20%EB%B3%B4%EB%82%B4%EC%8B%9C%EA%B8%B0%20%EB%B0%94%EB%9E%8D%EB%8B%88%EB%8B%A4%21)
+- [Send me your contact if you'd like to be friends or collaborate!](mailto:citron0137@gmail.com?subject=%5B%EC%97%B0%EB%9D%BD%EC%B2%98%5D%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%21&body=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%21%20%0A%EB%AA%85%ED%95%A8%EC%9D%84%20%EB%B0%9B%EC%95%84%20%EC%97%B0%EB%9D%BD%EC%B2%98%20%EB%B3%B4%EB%82%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4.%20%0A%0A%EC%9D%B4%EB%A6%84%3A%20%7B%EC%84%B1%ED%95%A8%7D%0A%EC%97%B0%EB%9D%BD%EC%B2%98%20%3A%20%7B%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%98%90%EB%8A%94%20%EC%9D%B4%EB%A9%94%EC%9D%BC%7D%20%0A%EC%A7%81%EC%97%85%3A%20%7B%EC%A7%81%EC%97%85%20%EB%98%90%EB%8A%94%20%ED%95%98%EC%8B%9C%EB%8A%94%20%EC%9D%BC%2C%20%EA%B4%80%EC%8B%AC%EC%9E%88%EB%8A%94%20%EC%9D%BC%7D%0A%0A%ED%96%89%EB%B3%B5%ED%95%9C%20%ED%95%98%EB%A3%A8%20%EB%B3%B4%EB%82%B4%EC%8B%9C%EA%B8%B0%20%EB%B0%94%EB%9E%8D%EB%8B%88%EB%8B%A4%21)
 
 
 <!--
