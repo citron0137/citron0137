@@ -14,7 +14,7 @@
   - **Position**: 서버 인프라 및 백엔드 개발 담당
   - **Period**: 2024. 07 ~ Present
   
-- **StudyWork (파트타임스터디)**  
+- **StudyWork ([파트타임스터디](https://ptstudy.oopy.io/))**  
   - **Position**: CTO & Server Developer   
   - **Period**: 2022. 01 ~ 2024. 06
   
