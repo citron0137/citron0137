@@ -2,7 +2,7 @@
 I'm a CTO who bridges technology and business, specializing in backend & infrastructure development.
 
 ### 💼 Currently
-**StudyWork** - CTO & Server Developer (2022.01 ~ Present)
+**StudyWork** - CTO & Server Developer (2022.01 ~ 2024.08, 2025.08 ~ 2025.11)
 
 ### 🌟 Learn More
 **Visit [rahoon.site](https://rahoon.site) for my complete portfolio, projects, and insights!**
